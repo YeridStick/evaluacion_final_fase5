@@ -1,0 +1,23 @@
+# ─────────────────────────────────────────────────────────────────────
+# Dependencias — Gestión de Nómina (Constructora Mejor)
+# Curso: Estructura de Datos 301305 — UNAD  |  Fase 2
+# ─────────────────────────────────────────────────────────────────────
+#
+# Python >= 3.8
+#
+# tkinter viene incluido en la instalación estándar de Python.
+# Si usas una distribución Linux minimal, instala con:
+#   sudo apt-get install python3-tk   (Debian / Ubuntu)
+#   sudo dnf install python3-tkinter  (Fedora / RHEL)
+#
+# No se requieren paquetes de terceros para ejecutar la aplicación.
+# Las siguientes líneas son opcionales y solo para desarrollo / pruebas:
+
+# Herramientas de desarrollo (opcionales)
+# pytest>=7.0          # pruebas unitarias
+# black>=23.0          # formateo de código
+# flake8>=6.0          # linting
+
+# Dependencias del proyecto
+pandas>=2.0.0
+openpyxl>=3.1.0
